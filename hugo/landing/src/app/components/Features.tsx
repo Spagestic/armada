@@ -71,7 +71,7 @@ export function Features() {
           transition={{ duration: 0.5, delay: 0.3 }}
           className="text-center mt-16"
         >
-          <a href="https://github.com/user-attachments/assets/bfc55866-c84a-4ae2-a92b-2dfabf6c6350" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/user-attachments/assets/ca76f5cc-3931-4e15-8875-41638bc72674" target="_blank" rel="noopener noreferrer">
             <Button size="lg" variant="outline" className="gap-2">
               <Play className="w-4 h-4" />
               View quick video demo
